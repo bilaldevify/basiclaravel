@@ -1,0 +1,1 @@
+<img src="{{ asset('images/image.jpg') }}" alt="" width="100px" style="border-radius: 50px;" {{ $attributes }} >
